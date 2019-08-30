@@ -2,5 +2,6 @@
 
 ```js
 {
-  editorConfigEnabled: true
+	editorConfigEnabled: true
 }
+```
